@@ -19,6 +19,8 @@ Etapas para reproduzir o comportamento:
 Não apresentar a mensagem de erro na tela grid do cadastro.
 
 **Capturas de tela**
+![image](https://github.com/GilbertoHaguiwara/dio-lab-open-source/assets/139599703/4e901517-95ec-41f2-889a-e3993cdc3ae0)
+
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Desktop (preencha as seguintes informações):**
@@ -30,8 +32,7 @@ Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 **Celular/Tablet (preencha as seguintes informações):**
   - Dispositivo: Qualquer Celular ou Tablet
   - SO: SO compatível com o celular/tablet.
-  - Navegador [por exemplo navegador padrão, safari]
-  - Versão [por exemplo 22]
+  - Navegador: Qualquer navegador.
 
 **Contexto adicional**
-Adicione qualquer outro contexto sobre o problema aqui.
+N/A.

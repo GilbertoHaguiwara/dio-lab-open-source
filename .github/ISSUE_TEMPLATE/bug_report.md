@@ -19,7 +19,7 @@ Etapas para reproduzir o comportamento:
 Não apresentar a mensagem de erro na tela grid do cadastro.
 
 **Capturas de tela**
-![image](https://github.com/GilbertoHaguiwara/dio-lab-open-source/assets/139599703/4e901517-95ec-41f2-889a-e3993cdc3ae0)
+
 
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 

@@ -1,36 +1,35 @@
 ---
 name: Bug report
-about: Crie um relatório para nos ajudar a melhorar
-title: "[BUG]"
+about: Mensagem de Erro na tela grid do cadastro de cliente
+title: "[BUG-Mensagem de Erro na tela grid do Cadastro de Cliente]"
 labels: bug
-assignees: ''
+assignees: 'GilbertoHaguiwara'
 
 ---
 
 **Descreva o bug**
-Uma descrição clara e concisa do que é o bug.
+Ao entrar na tela grid do cadastro de cliente apresenta mensagem de erro pela primeira vez que entra no sistema e depois não aparece mais. Porém, no outro dia volta a reaparecer a mesma mensagem.
 
 **Reproduzir**
 Etapas para reproduzir o comportamento:
-1. Vá para '...'
-2. Clique em '....'
-3. Role para baixo até '....'
-4. Ver erro
+1. Vá para o módulo de Cadastros --> Cadastros --> Cadastro de Cliente.
+2. Será exibida a mensagem de erro ao logar pela primeira vez no comando do cadastro de cliente.
 
 **Comportamento esperado**
-Uma descrição clara e concisa do que você esperava que acontecesse.
+Não apresentar a mensagem de erro na tela grid do cadastro.
 
 **Capturas de tela**
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Desktop (preencha as seguintes informações):**
-  - SO: [por exemplo iOS]
-  - Navegador [por exemplo chrome, safari]
-  - Versão [por exemplo 22]
+  - SO: Windows 10 adiante
+  - Navegador: Qualquer Navegador instalado
+  - Versão: ERP E2corp 6.0
+  - Portal: portal.aokiinova.com.br
 
-**Smartphone (preencha as seguintes informações):**
-  - Dispositivo: [por exemplo iPhone6]
-  - SO: [por exemplo iOS8.1]
+**Celular/Tablet (preencha as seguintes informações):**
+  - Dispositivo: Qualquer Celular ou Tablet
+  - SO: SO compatível com o celular/tablet.
   - Navegador [por exemplo navegador padrão, safari]
   - Versão [por exemplo 22]
 
